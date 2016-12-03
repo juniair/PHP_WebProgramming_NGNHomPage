@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$USER_HOME$/Desktop/source/concert/view.php" charset="EUC-KR" />
+    <file url="file://$USER_HOME$/Desktop/source/download/download.php" charset="EUC-KR" />
+    <file url="file://$USER_HOME$/Desktop/source/download/view.php" charset="EUC-KR" />
+    <file url="file://$USER_HOME$/Desktop/source/free/insert.php" charset="EUC-KR" />
+    <file url="file://$USER_HOME$/Desktop/source/free/list.php" charset="EUC-KR" />
+    <file url="file://$USER_HOME$/Desktop/source/free/view.php" charset="EUC-KR" />
+    <file url="file://$USER_HOME$/Desktop/source/free/write_form.php" charset="EUC-KR" />
+    <file url="file://$USER_HOME$/Desktop/source/greet/view.php" charset="EUC-KR" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+/* 회원 가입란 가운데 정렬 */
+div.register {
+    display: table;
+    margin-top: inherit;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.center {
+    padding-top: inherit;
+}
+
+
